@@ -3,5 +3,5 @@
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=ffdd54)
 # 📊 On GitHub
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=richim96&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=richim96&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richim96&theme=default&hide_border=false)
